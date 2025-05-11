@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I build stuff for the web — mostly with **React**, **Next.js**, and **TypeScript** on the frontend, and occasionally some **Golang** on the backend when needed.
+I build stuff for the web — mostly with **React**, **Next.js**, and **TypeScript** on the frontend, and occasionally some **Go** on the backend when needed.
 
 I like clean, feature-based architecture that makes scaling apps feel natural, not like a chore. Reusable code, clear structure, and a focus on developer experience — that’s my thing.
 
