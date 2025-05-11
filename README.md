@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Marko Tomic
 
-<!--
-**0-logon/0-logon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Engineer** | ⚛️ React / Next (with TypeScript) | 🛠 Golang Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I build stuff for the web — mostly with **React**, **Next.js**, and **TypeScript** on the frontend, and occasionally some **Golang** on the backend when needed.
+
+I like clean, feature-based architecture that makes scaling apps feel natural, not like a chore. Reusable code, clear structure, and a focus on developer experience — that’s my thing.
+
+Currently enjoying the process of leveling up across the stack, learning by doing, and keeping things simple, fast, and maintainable.
+
+---
+
+### 🧰 Tech Stack
+
+- **Frontend**: React / Next (with TypeScript), Zustand, Redux Toolkit...
+- **Backend**: Golang, REST APIs, basic gRPC understanding, PostgreSQL
+- **Dev Tools**: Vite, Turbopack...
+
+---
+
+### 🚀 What I'm Working On
+
+- Continuously improving my skills in full-stack development  
+- Exploring advanced patterns in React and scalable architecture designs  
+- Building personal and collaborative projects using modern tools  
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0-logon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
