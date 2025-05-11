@@ -17,7 +17,7 @@ Currently enjoying the process of leveling up across the stack, learning by doin
 ### 🧰 Tech Stack
 
 - **Frontend**: React / Next (with TypeScript), Zustand, Redux Toolkit...
-- **Backend**: Golang, REST APIs, basic gRPC understanding, PostgreSQL
+- **Backend**: Go, REST APIs, basic gRPC understanding, PostgreSQL
 - **Dev Tools**: Vite, Turbopack...
 
 ---
